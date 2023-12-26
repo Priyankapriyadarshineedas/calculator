@@ -1,0 +1,56 @@
+
+body {
+  padding: 100;
+  margin: 100;
+}
+
+.button {
+  padding: 20px;
+  width: 66px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.b1 {
+  padding: 20px;
+  width: 132px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+  width: 82vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rowi {
+  text-align: center;
+
+
+}
+
+.row input {
+  margin: 0;
+  padding: 10px 30px;
+  border: 5px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+  width: 295px;
+}
+
+element.style {
+  width: 295px;
+}
+
+.input {
+  width: 255px;
+  border: 2px solid black;
+
+}
